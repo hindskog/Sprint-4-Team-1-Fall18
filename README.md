@@ -31,6 +31,8 @@ The project should be built in React and SASS. It should also be responsive and 
 
 The code folder in this repository contains a copy of the Technigo React Starter project. You should use this as a base for your project.
 
+You will use Svenska Spel API to serach for teams. They have written a short doumentation on how you access it and how to use it. [Go to Svenska Spel API.](https://docs.google.com/document/d/1iyHJyfBIRDoCiib3lL4Mq61rIZ_u-NYINWYNaFKPIjE/edit?usp=sharing)
+
 ## How to approach this as a team
 
 The first step, as always, should be to sketch out your application and decide how things should look, but also what kind of components you'd like. Give thought - as a team - as to what components you might need, and what naming you should use.
