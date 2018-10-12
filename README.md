@@ -8,7 +8,7 @@ In this project you will build a React app that both encourage you to be more ac
 
 A rough sketch of how the main screen could potentially look is something like this:
 
-[Imgur](https://i.imgur.com/O4GLtbd.jpg)
+![Imgur](https://i.imgur.com/O4GLtbd.jpg)
 
 The scope, app design, and general functionality of this app is very undefined, and down to your team to figure out! You definitely will need a planning session for this one.
 
