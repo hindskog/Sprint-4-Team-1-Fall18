@@ -47,5 +47,5 @@ Finally, on a more technical level, you should get a chance to work with some ex
 
 ## 🏃 Stretch Goals
 Done with the main task? Try to come up with some fun stretch goals within your company. Here's some ideas:
-Build some sort of statistics page which shows how many exercies have been completed per week, or renders some charts
-Package the app as a Chrome extension, or make it run as an electron app.
+1. Build some sort of statistics page which shows how many exercies have been completed per week, or renders some charts
+2. Package the app as a Chrome extension, or make it run as an electron app.
